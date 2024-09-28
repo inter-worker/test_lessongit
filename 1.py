@@ -1,6 +1,6 @@
-a = 5
+a = 5234234
 b = 10
-с = 15
+сcccc = '15wefwef'
 print(a)
 print(b)
-print(с)
+print(сccccс)
